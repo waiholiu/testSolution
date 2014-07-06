@@ -6,7 +6,10 @@
       "npm": {},
       "select2": {},
       "select2-bootstrap3-css": {},
-      "iron-router": {}
+      "iron-router": {},
+      "chartjs": {},
+      "bootstrap-slider": {},
+      "jquery-easing": {}
     },
     "packages": {
       "bootstrap3-less": {
@@ -33,6 +36,21 @@
         "git": "https://github.com/EventedMind/iron-router.git",
         "tag": "v0.7.1",
         "commit": "d1ffb3f06ea4c112132b030f2eb1a70b81675ecb"
+      },
+      "chartjs": {
+        "git": "https://github.com/donskifarrell/meteor-chartjs.git",
+        "tag": "v0.0.5",
+        "commit": "9d5e88fae172de55775ee49ac182dbe82f21a302"
+      },
+      "bootstrap-slider": {
+        "git": "https://github.com/kidovate/meteor-bootstrap-slider.git",
+        "tag": "v0.0.5",
+        "commit": "0a0421f3ceea41d05ad0c90d217589954f0dc3a0"
+      },
+      "jquery-easing": {
+        "git": "https://github.com/kenyee/meteor-jquery-easing.git",
+        "tag": "v1.3.0",
+        "commit": "556cf106f23692d78e5c92aa8a3bc99cf24bbd49"
       },
       "blaze-layout": {
         "git": "https://github.com/EventedMind/blaze-layout.git",
